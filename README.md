@@ -1,9 +1,8 @@
 # ig_search
 
 A new Flutter project.
-This is a calculator test application built using Flutter. As a test of the framework, I wanted to implement something simple that would help me get the basics down.
 
-
+Did you know you can browse Instagram as a guest? Without having to log in, you can peruse and enjoy a lot of what Instagram has to offer. Gone are the days of needing an Insta stalker profile, as Instagram browsing without an account is simple. With this app, you can browse Instagram profiles and retrieve users metadata through their usernames without an account. Though some people are aware that you can see a full size photo on Instagram using the likes of InstaDP, very few are aware that Instagram can be used without an account. Luckily, this app allows you to do just that. 
 ## Getting Started
 
 Follow the steps below to run the app on your local machine.
@@ -18,7 +17,7 @@ Let me know if you encounter issues with the calculator
 
 
 
-| Calculator Screen | |
+| Demo | |
 | --- | --- |
 |  ![Demo](/images/demo.png) |  |
 
