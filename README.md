@@ -19,7 +19,7 @@ Let me know if you encounter issues with the calculator
 
 | Demo | |
 | --- | --- |
-|  ![Demo](/images/demo.png) |  |
+|  ![Demo](/images/demo.gif) |  |
 
 
 
