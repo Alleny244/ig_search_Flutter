@@ -27,7 +27,7 @@ class _FindUserState extends State<FindUser> {
         errorT = "Please provide an input";
       });
     } else {
-      final response = await get(
+      final response = await get( 
           Uri.parse(
               "https://instagram-data1.p.rapidapi.com/user/info/?username=$name"),
           headers: {
