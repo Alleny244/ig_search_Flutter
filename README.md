@@ -17,9 +17,10 @@ Let me know if you encounter issues with the calculator
 
 
 
-| Demo | |
-| --- | --- |
-|  ![Demo](/images/demo.gif) |  |
+### Demo
+
+
+<img src="images/demo.gif"  width="350" height="620"/> 
 
 
 
